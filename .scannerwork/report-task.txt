@@ -1,0 +1,7 @@
+organization=gabbo95
+projectKey=Gabbo95_Homework
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18114
+dashboardUrl=https://sonarcloud.io/dashboard?id=Gabbo95_Homework
+ceTaskId=AXgrUWS9EhslswL8xTP7
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgrUWS9EhslswL8xTP7
