@@ -6,7 +6,6 @@ public class hello {
 
 		//Testo da stampare
 		System.out.println("Ciao mondo\n");
-		System.out.println("Oggi si prosegue alla grande");
 		
 	}
 
